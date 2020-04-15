@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graph height="100" width="5">
+  <track display_name="TRACK_1" major_lines="9" width="1">
+    <curve color="#cc0000" curve_name="CALI" display_name="CALI" left="6" right="24" />
+    <curve color="#006400" curve_name="GR" display_name="GR" left="0" right="150" />
+  </track>
+  <track display_name="DEPTH" line_spacing="50" number_spacing="200" tick_spacing="10" width="0.5" />
+  <track display_name="RESISTIVITY" scale="log" width="1.5">
+    <curve color="#000000" curve_name="LLD" display_name="LLD" left="1" right="1000" />
+  </track>
+  <track display_name="NEUTRON DENSITY" major_lines="9" width="2">
+    <curve color="#FF0000" curve_name="RHOB" display_name="RHOB" left="1.95" right="2.95" />
+    <curve color="#0099CC" curve_name="NPHI" display_name="NPHI" left="0.45" right="-0.15" />
+  </track>
+</graph>
